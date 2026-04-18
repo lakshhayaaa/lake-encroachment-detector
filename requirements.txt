@@ -1,2 +1,4 @@
 osmnx
 folium
+geopandas
+matplotlib
