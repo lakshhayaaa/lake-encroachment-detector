@@ -1,6 +1,6 @@
 # lake-encroachment-detector
 
-This project is designed to see detect encroachments within 30m buffer zones of lakes in Coimbatore. Sentinel-2 images from Google Earth Engine and geometry of boundaries of lakes obtained from Open Street Map served as the data source. The project identifies and flags zones with high and moderate changes between the years 2019 and 2024. The future scope/improvements for this project include detecting lake shrinkage and illegal construction around lakes and automating the product to run every three months to detect changes regularly.
+This project is designed to see detect encroachments within 30m buffer zones of lakes in Coimbatore. Sentinel-2 images from Google Earth Engine and geometry of boundaries of lakes obtained from Open Street Map served as the data source. The project identifies and flags zones with high and moderate changes between the years 2019 and 2024. The future scope for this project includes detecting lake shrinkage and illegal construction around lakes and automating the product to run every three months to detect changes regularly.
 
 ## Instructions to run
 ```bash
